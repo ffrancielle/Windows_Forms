@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\bin\Debug\WindowsFormsListaEx2.exe.config
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\bin\Debug\WindowsFormsListaEx2.exe
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\bin\Debug\WindowsFormsListaEx2.pdb
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.Form1.resources
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.Properties.Resources.resources
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.exe
+C:\Users\aluno\source\repos\WindowsFormsListaEx2\WindowsFormsListaEx2\obj\Debug\WindowsFormsListaEx2.pdb
