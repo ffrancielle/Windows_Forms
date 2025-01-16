@@ -1,0 +1,10 @@
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\bin\Debug\ListaPooFormsExer9.exe.config
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\bin\Debug\ListaPooFormsExer9.exe
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\bin\Debug\ListaPooFormsExer9.pdb
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.csproj.AssemblyReference.cache
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.Form1.resources
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.Properties.Resources.resources
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.csproj.GenerateResource.cache
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.csproj.CoreCompileInputs.cache
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.exe
+D:\Programação\Lista Poo Forms\ListaPooFormsExer9\obj\Debug\ListaPooFormsExer9.pdb
